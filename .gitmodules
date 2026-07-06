@@ -1,0 +1,3 @@
+[submodule "services/notification-service"]
+	path = services/notification-service
+	url = https://github.com/mrebaya/notification-service
